@@ -371,7 +371,7 @@ export const FEATURED_EXPERIENCES: FeaturedExperience[] = [
     description:
       "Join our sommelier for an exclusive journey through Tuscany's finest wines paired with chef's selections",
     price: 125,
-    image: "/sommelier-wine-tasting-experience.jpg",
+    image: "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=800&q=80",
     availableTimes: ["6:30 PM", "7:00 PM", "8:00 PM"],
     menuPolicy: 1, // All guests same menu
   },
@@ -384,7 +384,7 @@ export const FEATURED_EXPERIENCES: FeaturedExperience[] = [
     name: "Chef's Omakase Night",
     description: "An intimate 7-course tasting menu crafted tableside by Chef Marco",
     price: 195,
-    image: "/chef-table-kitchen-counter-dining.jpg",
+    image: "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=800&q=80",
     availableTimes: ["6:00 PM", "8:30 PM"],
     menuPolicy: 1, // All guests same menu
   },
@@ -397,7 +397,7 @@ export const FEATURED_EXPERIENCES: FeaturedExperience[] = [
     name: "Champagne Brunch",
     description: "Unlimited champagne paired with our weekend brunch tasting menu",
     price: 95,
-    image: "/champagne-bottle-with-glasses-elegant.jpg",
+    image: "https://images.unsplash.com/photo-1592483648228-b35146a4330c?w=800&q=80",
     availableTimes: ["9:00 AM", "9:30 AM", "10:00 AM", "10:30 AM"],
     menuPolicy: 3, // Optional menus
   },
@@ -410,7 +410,7 @@ export const FEATURED_EXPERIENCES: FeaturedExperience[] = [
     name: "Sunset Dinner Experience",
     description: "Premium waterfront seating with a curated sunset menu as the sun sets over the bay",
     price: 85,
-    image: "/restaurant-window-seat-with-city-view.jpg",
+    image: "https://images.unsplash.com/photo-1551632436-cbf8dd35adfa?w=800&q=80",
     availableTimes: ["5:30 PM", "6:00 PM", "6:30 PM"],
     menuPolicy: 1, // All guests same menu
   },
@@ -423,7 +423,7 @@ export const FEATURED_EXPERIENCES: FeaturedExperience[] = [
     name: "Mediterranean Seafood Feast",
     description: "Private dining experience featuring the freshest catch and Mediterranean traditions",
     price: 175,
-    image: "/private-dining-room-elegant.jpg",
+    image: "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800&q=80",
     availableTimes: ["7:00 PM"],
     menuPolicy: 2, // Each guest any menu
   },
@@ -436,7 +436,7 @@ export const FEATURED_EXPERIENCES: FeaturedExperience[] = [
     name: "Wine & Dine Lunch",
     description: "A relaxed afternoon of fine wines paired with our signature lunch courses",
     price: 85,
-    image: "/sommelier-wine-tasting-experience.jpg",
+    image: "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=800&q=80",
     availableTimes: ["12:00 PM", "12:30 PM", "1:00 PM", "1:30 PM"],
     menuPolicy: 3, // Optional menus
   },
